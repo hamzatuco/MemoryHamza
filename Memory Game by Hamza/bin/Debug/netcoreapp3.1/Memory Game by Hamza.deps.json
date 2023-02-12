@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Memory Game by Hamza/1.0.0": {
+        "runtime": {
+          "Memory Game by Hamza.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Memory Game by Hamza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
